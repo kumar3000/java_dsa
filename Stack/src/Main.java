@@ -10,6 +10,5 @@ public class Main {
         games.push("Madden");
 
         System.out.println(games.pop());
-        games.
     }
 }
